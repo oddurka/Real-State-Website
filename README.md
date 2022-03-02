@@ -16,7 +16,7 @@ Table of contents
 
 
 -----------------------------------
-•	Overview This is a modern Real State Agency website that has the purpose of offering the different services they offer, connect with their agents and have access to the latest listings online in a responsive website that is responsive for any type of devices. Please notice that not all buttons have functionalities, this is due to showcase purposes where every section has extra pages when you click on "Read More", this is a list with the functioning buttons:
+•	Overview: This is a modern Real State Agency website that has the purpose of offering the different services they offer, connect with their agents and have access to the latest listings online in a responsive website that is responsive for any type of devices. Please notice that not all buttons have functionalities, this is due to showcase purposes where every section has extra pages when you click on "Read More", this is a list with the functioning buttons:
 -   Header: when you click in any title, this will take you to that specific section. if you click in the logo, will take you to home. I'm still working in the saved likes page (heart) and the login page (user).
 - 	About: There are 3 videos, they will play when you click in the aqua blue circles, if you click in read more, you will be redirected to that page.
 - 	Properties: the properties 1 Crestway Drive, 305 Ballinville Circle, and 114, Tongil-ro, Jung-gu have extra pages, you can click on "See more" and will redirect you there.

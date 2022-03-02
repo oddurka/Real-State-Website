@@ -1,5 +1,5 @@
 # Real-State-Website
-Frontend - Adventure and Travel Agency Website
+Frontend - Real State Agency Website
 This is a conceptual case of a Real State Website with the purpose of improving my coding skills by building realistic projects.
 
 Table of contents

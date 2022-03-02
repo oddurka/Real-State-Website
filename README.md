@@ -18,8 +18,18 @@ Acknowledgments
 
 - Overview
 This is a modern Real State Agency website that has the purpose of offering the different services they offer, connect with their agents and have access to the latest listings online in a responsive website that is responsive for any type of devices.
+Please notice that not all buttons have functionalities, this is due to showcase purposes where every section has extra pages when you click on "Read More", this is a list with the funcioning buttons:
+
+- Header: when you click in any title, this will take you to that specific section. if you click in the logo, will take you to home. I'm still working in the saved likes page (heart) and the login page (user).
+- About: There are 3 videos, they will play when you click in the aqua blue circles, if you click in read more, you will be redirected to that page.
+- Properties: the properties 1 Crestway Drive, 305 Ballinville Circle, and 114, Tongil-ro, Jung-gu have extra pages, you can click on "See more" and will redirect you there.
+- Agents: You can click on the social media logos and will take you to the correspondent social media websites (If this was a real website, you can use the uer's real socual media accounts), when you click on the mail emoticon, it will redirect you to sending them an email from your outbox.
+- News: In the news section the one under "UK Mortgage Lenders Begin to Raise Rates" will redirect you to an external page.
+- Footer: The quick links will take you to different sections of the website
 
 - Links: 
+
+- Link to deployed version: https://pensive-mestorf-6ba506.netlify.app/ 
 
 - Demo of the Main page: 
 
@@ -79,13 +89,14 @@ Multi-Page and some buttons have functions for demonstration purposes.
 I wanted to showcase different CSS animations when accessing to different sections as animations catches attention, I had the opportunity to play more with CSS and made slide functions work on Javascript. 
 
 - Continued development:
-I will be connecting this project to a PHP and MySQL so the forms for the appointment sections get completed with an email confirmation.
+I will be connecting this project to a PHP and MySQL so the forms for the appointment sections get completed with an email confirmation. I also want to create extra pages for the "Liked" listings, maps, and user login.
 
 
 - Useful resources:
 VS Code for coding purposes
 Loom for demo videos
 Pexels for the open source pictures used
+Netifly for the deploy link
 
 
 - Author:
@@ -95,6 +106,6 @@ Website - Oddur K. Arnason
 Inspiration from: https://www.behance.net/gallery/96647749/R-State-Landing-Page 
 
 
-*** Note: For you to test the website, please download the code and assets if you don't have Github desktop.
+
 
 Thank you for checking my work!

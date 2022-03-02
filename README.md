@@ -95,5 +95,6 @@ Website - Oddur K. Arnason
 Inspiration from: https://www.behance.net/gallery/96647749/R-State-Landing-Page 
 
 
+*** Note: For you to test the website, please download the code and assets if you don't have Github desktop.
 
 Thank you for checking my work!
